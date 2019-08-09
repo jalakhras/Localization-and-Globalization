@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29123.88
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeUICulture", "C:\Users\Jassar\Desktop\1-intro-to-localization-globalization-exercise-files\before\CultureChange\ChangeUICulture\ChangeUICulture.csproj", "{AC7F9030-D3B7-485F-873F-BD855ED28FD8}"
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeUICulture", "ChangeUICulture\ChangeUICulture.csproj", "{AC7F9030-D3B7-485F-873F-BD855ED28FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,8 +16,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A5F34CEF-A6C8-4600-87F5-5A250C56ACFD}
 	EndGlobalSection
 EndGlobal
